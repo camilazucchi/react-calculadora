@@ -1,7 +1,7 @@
 # Desafio: Calculadora com React
 
 Durante o Bootcamp Orange Tech + Inter, em parceria com a Digital Innovation One, o primeiro desafio proposto foi criar uma calculadora utilizando React.
-Para visualizar melhor, o projeto encontra-se aqui. 
+Para visualizar melhor, o projeto encontra-se <bold>aqui</bold>. 
 
 ![Imagem da Calculadora](https://uploaddeimagens.com.br/images/004/163/666/original/calculadora.PNG?1668486633)
 
