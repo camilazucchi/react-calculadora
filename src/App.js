@@ -2,7 +2,7 @@ import { MdDelete } from "react-icons/md";
 import { useState } from "react";
 import { Input } from "./components/Input";
 import { Button } from "./components/Button";
-import { Container, Content, Row } from "./styles";
+import { Container, Content, Row } from "./styles/styles";
 
 function App() {
   const [currentNumber, setCurrentNumber] = useState("0");
