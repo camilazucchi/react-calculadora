@@ -23,4 +23,4 @@ npm start
 ```
 ## Autores
 
-- Feito com amor 💜 por [@camilazucchi](https://www.github.com/camilazucchi).
+- Feito com 💜 por [@camilazucchi](https://www.github.com/camilazucchi).
